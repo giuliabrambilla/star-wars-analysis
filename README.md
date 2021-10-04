@@ -1,6 +1,6 @@
 # Analysis of the Star Wars Films
 
-This Jupyter Notebook kernel contains a data wrangling and exploration about George Lucas' *Star Wars* universe, one of the most successful movie franchises of all time.
+This script contains a data wrangling and exploration about George Lucas' *Star Wars* universe, one of the most successful movie franchises of all time.
 
 ## Objective
 
